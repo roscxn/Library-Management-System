@@ -4,6 +4,7 @@ Introducing the Library Management System, powered by Pega Platform 8.6.0, desig
 
 #### <a href="https://docs.google.com/presentation/d/1NQDezvczfhJTow8gStUisU0mIq8lT4wc/edit?usp=drive_link&ouid=113842597631816499334&rtpof=true&sd=true">Run through the process here</a>. 
 
+#### <a href="https://drive.google.com/drive/folders/1ZwEqkCBzY4DgNLBMiaC9i9iXbsFzHNl3?usp=drive_link">Access the Pega file here</a>. 
 
 ## Users' Stories
 
@@ -54,7 +55,6 @@ Introducing the Library Management System, powered by Pega Platform 8.6.0, desig
 * Service Level Agreement
 * Report Definition
 
-#### <a href="https://drive.google.com/drive/folders/1ZwEqkCBzY4DgNLBMiaC9i9iXbsFzHNl3?usp=drive_link">Access the Pega file here</a>. 
 
 ## Future Enhancements
 * Validations for unique book ID and user ID
