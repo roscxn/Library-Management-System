@@ -2,7 +2,7 @@
 
 Introducing the Library Management System, powered by Pega Platform 8.6.0, designed to streamline and enhance the entire library experience. With a user-friendly interface, patrons can effortlessly borrow and return books while conveniently checking real-time user status. The robust platform empowers librarians to efficiently manage the library workflow, enabling them to approve book requests shown in their worklists, register new books and users, and access comprehensive book status insights through dynamic charts and tables. 
 
-#### <a href="https://docs.google.com/presentation/d/1NQDezvczfhJTow8gStUisU0mIq8lT4wc/edit?usp=drive_link&ouid=113842597631816499334&rtpof=true&sd=true">Run through the process here</a>. 
+#### <a href="https://docs.google.com/presentation/d/1NQDezvczfhJTow8gStUisU0mIq8lT4wc/edit?usp=drive_link&ouid=113842597631816499334&rtpof=true&sd=true">Run through the detailed process here</a>. 
 
 #### <a href="https://drive.google.com/drive/folders/1ZwEqkCBzY4DgNLBMiaC9i9iXbsFzHNl3?usp=drive_link">Access the Pega file here</a>. 
 
