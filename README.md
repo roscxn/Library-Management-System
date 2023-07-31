@@ -27,6 +27,13 @@ Introducing the Library Management System, powered by Pega Platform 8.6.0, desig
 
 ![image](https://github.com/roscxn/Library-Management-System/assets/114375385/3fe11e90-f22c-47c8-8e07-5abed866e1a6)
 
+### Data Type: Books
+![image](https://github.com/roscxn/Library-Management-System/assets/114375385/0a18a765-ff0b-4c1e-b13e-a931d69fa96a)
+
+### Data Type: Users
+![image](https://github.com/roscxn/Library-Management-System/assets/114375385/3b9ba11b-f1de-4299-98e1-9598129a7ac3)
+
+
 ## Preview
 
 ### User Portal (Borrow Book)
